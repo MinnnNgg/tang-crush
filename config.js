@@ -5,7 +5,7 @@ const CONFIG = {
     title: 'm có thương t hămmm',
     desc: 'trả lời ik out ra là muốn làm chồng t á =)) ',
     btnYes: 'Cóa vlll <33',
-    btnNo: 'hông, em chỉ xem m như một ng rất quan trọng thoiii :3',
+    btnNo: 'hông, t chỉ xem m như một ng rất quan trọng thoiii :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu t <3',
     btnReply: 'Gửi cho nanhh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
